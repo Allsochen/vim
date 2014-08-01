@@ -1,6 +1,7 @@
 # vim configuration 
 
-[`vim.png`](vim.png)`]
+### snapshot:
+![vim.png](vim.png)
 
 ### simple install：
 
